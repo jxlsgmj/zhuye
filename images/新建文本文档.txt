@@ -6,3 +6,27 @@ g7 600 300
 g8 300 300
 
 g9  600 300
+
+
+
+1 1280  853
+
+2 1280  662
+
+
+
+
+
+
+收藏版精品内部链接
+<div class="back">
+									<h4>来永超</h4>
+									<p>Lai Yongchao</p>
+									<div class="w3l-social">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-rss"></i></a></li>
+										</ul>
+									</div>
+								</div>
